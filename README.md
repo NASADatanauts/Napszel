@@ -8,6 +8,5 @@ The data on data.nasa.gov: <a href="https://data.nasa.gov/Applied-Science/Outgas
 
 The raw data: <a href="https://data.nasa.gov/resource/gymh-eyc2.json">https://data.nasa.gov/resource/gymh-eyc2.json</a>
 
-<a href="index.html">The data gathered by this website using the API</a>
+<a href="data.html">The data gathered by this website using the API</a>
 
-grgo was here
